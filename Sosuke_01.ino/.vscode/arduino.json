@@ -5,5 +5,6 @@
     "programmer": "adafruit:adafruit_jlink",
     "sketch": "Sosuke_01.ino.ino",
     "output": "../build",
-    "debugger": "jlink"
+    "debugger": "jlink",
+    "output": "../ArduinoOutput"
 }

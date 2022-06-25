@@ -1,9 +1,8 @@
 {
     "configuration": "opt=small,usbstack=arduino,debug=off",
     "board": "adafruit:samd:adafruit_trinket_m0",
-    "port": "COM6",
     "programmer": "adafruit:adafruit_jlink",
-    "sketch": "Sosuke_01.ino.ino",
-    "output": "../build",
-    "debugger": "jlink"
+    "port": "COM6",
+    "sketch": "..\\Sosuke_01.ino.ino",
+    "output": "../build"
 }

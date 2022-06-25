@@ -34,6 +34,7 @@
                 "-fno-rtti",
                 "-fno-exceptions"
             ],
+
             "intelliSenseMode": "gcc-x64",
             "includePath": [
                 "C:\\Users\\Charles\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.7.5\\libraries\\Adafruit_TinyUSB_Arduino\\src\\arduino",
@@ -55,8 +56,21 @@
                 "c:\\users\\charles\\appdata\\local\\arduino15\\packages\\adafruit\\tools\\arm-none-eabi-gcc\\9-2019q4\\arm-none-eabi\\include\\c++\\9.2.1\\backward",
                 "c:\\users\\charles\\appdata\\local\\arduino15\\packages\\adafruit\\tools\\arm-none-eabi-gcc\\9-2019q4\\lib\\gcc\\arm-none-eabi\\9.2.1\\include",
                 "c:\\users\\charles\\appdata\\local\\arduino15\\packages\\adafruit\\tools\\arm-none-eabi-gcc\\9-2019q4\\lib\\gcc\\arm-none-eabi\\9.2.1\\include-fixed",
-                "c:\\users\\charles\\appdata\\local\\arduino15\\packages\\adafruit\\tools\\arm-none-eabi-gcc\\9-2019q4\\arm-none-eabi\\include"
+                "c:\\users\\charles\\appdata\\local\\arduino15\\packages\\adafruit\\tools\\arm-none-eabi-gcc\\9-2019q4\\arm-none-eabi\\include",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/EEPROM/",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/compat/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/util/"
             ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
             "forcedInclude": [
                 "C:\\Users\\Charles\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.7.5\\cores\\arduino\\Arduino.h"
             ],

@@ -4,5 +4,5 @@
     "programmer": "adafruit:adafruit_jlink",
     "port": "COM6",
     "sketch": "..\\Sosuke_01.ino.ino",
-    "output": "../build"
+    "output": "..\\build"
 }

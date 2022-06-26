@@ -6,7 +6,7 @@
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 #include <Adafruit_NeoPixel.h>
-//test 01
+//test 02
 
 
 //************************************************************

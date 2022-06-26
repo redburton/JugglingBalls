@@ -8,7 +8,7 @@ This project is a DIY Juggling ball.  The intent is to familiarize yourself with
 	IMU: Inertial measurement unit
 	Battery Charger:
 	Battery: 150 mAh Lithium Ion battery 
-	1 LED Boards: NeoPixel 7 led boards
+	1 LED Boards: NeoPixel 7 led boards 
 	
 	
   
